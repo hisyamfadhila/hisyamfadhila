@@ -124,68 +124,7 @@ Robot arm 4-DOF berbasis ROS2, OpenCV, YOLO, inverse kinematics, servo control, 
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hisyamfadhila/hisyamfadhila/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-> Catatan: animasi snake butuh workflow GitHub Actions di repository profile `hisyamfadhila/hisyamfadhila`.
-
----
-
-## 📁 Project Structure
-
-```txt
-src/
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   ├── globals.css
-│   ├── manifest.ts
-│   ├── robots.ts
-│   └── sitemap.ts
-├── components/
-│   ├── HeroSection.tsx
-│   ├── AboutSection.tsx
-│   ├── SkillsSection.tsx
-│   ├── ProjectsSection.tsx
-│   ├── CertificatesSection.tsx
-│   └── ContactSection.tsx
-├── data/
-│   └── portfolio.ts
-├── lib/
-│   ├── translations.ts
-│   └── site.ts
-└── types/
-    └── portfolio.ts
-```
-
----
-
-## ⚙️ Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-Buka browser:
-
-```txt
-http://localhost:3000
-```
-
-Build production:
-
-```bash
-npm run build
-npm run start
-```
-
----
 
 ## 🌐 Connect With Me
 
