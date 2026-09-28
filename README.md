@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Engineering%20Opportunities-22c55e?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=140&section=header&text=Electronic%20%7C%20Engineering%20%7C%20Innovation&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=140&section=header&text=Electronic%20%7C%20Robotic%20%7C%20Programming&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header wave" />
 
 </div>
 
