@@ -25,26 +25,7 @@ Saya **Hisyam Fadhila Rahman**, mahasiswa **D4 Teknik Elektronika Universitas Ne
 - 📡 **IoT Monitoring**
 - 🧪 **Instrumentation**
 
-Saya memiliki pengalaman dalam integrasi sensor, pengembangan sistem embedded, computer vision, monitoring IoT, dan proyek robotika. Saya juga aktif di **Robotika UNY**, khususnya kontribusi pada kompetisi nasional seperti **KRTI** melalui desain mekanik, fabrikasi, assembly, dan integrasi hardware-software.
-
----
-
-## 🚀 Portfolio Website
-
-Repository ini berisi website portfolio pribadi berbasis **Next.js**, **TypeScript**, dan **Tailwind CSS**.
-
-### ✨ Main Features
-
-- 🌗 Dark / light mode
-- 🌐 Bahasa Indonesia & English
-- 🖼️ Project gallery + lightbox
-- 📱 Responsive design
-- 🎯 Project modal detail
-- ✨ Glow cursor effect
-- 📊 Scroll progress
-- 🔢 Animated count-up stats
-- 📄 Download CV
-- 🏆 Certificate section
+Saya memiliki pengalaman dalam integrasi sensor, pengembangan sistem embedded, computer vision, monitoring IoT, dan proyek robotika.
 
 ---
 
@@ -93,9 +74,6 @@ Repository ini berisi website portfolio pribadi berbasis **Next.js**, **TypeScri
 ---
 
 ## 🧩 Featured Projects
-
-### 🛩️ KRTI UAV Technology Development
-Kontribusi pada tim mekanik Robotika UNY untuk pengembangan struktur UAV, pemilihan material, fabrikasi, assembly, dan integrasi sistem. Tim meraih **peringkat 4 KRTI 2024 Yogyakarta**.
 
 ### 🎵 Music Genre Classification with EfficientNetB2
 Sistem klasifikasi genre musik berbasis CNN EfficientNetB2 dengan preprocessing MFCC, dataset 1.000+ audio, 10 genre, dan akurasi validasi 89%.
